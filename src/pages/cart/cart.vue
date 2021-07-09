@@ -1,7 +1,7 @@
 <template>
 	<view class="content">
-        <uni-badge text="1" type="success"></uni-badge>
-		首页
+        <uni-badge text="3" type="success"></uni-badge>
+		购物车
 	</view>
 </template>
 
